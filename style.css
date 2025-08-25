@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background: linear-gradient(to top, #000000, #cb2d2dd3);
+    min-height: 100vh;
+    display: top;
+    justify-content: center;
+    align-items: center;
+}
+
+.vsebnik {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 4em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Doda malo sence, da je besedilo bolj berljivo */
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 2em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Doda malo sence, da je besedilo bolj berljivo */
+}
