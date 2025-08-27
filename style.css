@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: sans-serif;
-    background: linear-gradient(to top, #000000, #cb2d2dd3);
+    background: linear-gradient(to top, #000000, #850000);
     min-height: 100vh;
     display: top;
     justify-content: center;
@@ -24,6 +24,15 @@ h1 {
 
 h2 {
     color: #ffffff;
-    font-size: 2em;
+    font-size: 1.5em;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Doda malo sence, da je besedilo bolj berljivo */
+}
+
+p {
+    color: #ffffff !important;
+    font-size: 1.5em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Doda malo sence, da je besedilo bolj berljivo */
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1.7em;
 }
