@@ -5,12 +5,16 @@ const questions = [
     answer: "Piki",
   },
   {
-    question: "Kaj je glavno mesto Slovenije?",
-    answer: "Ljubljana",
+    question: "Kje ima Piki to hrano spravljeno? Ko to najdeš, boš v vreči s Pikijevimi vitaminčki našel listek. V besedilno polje napiši, kar piše na njem.",
+    answer: "radi",
   },
   {
-    question: "Katera žival ima najdaljši vrat?",
-    answer: "žirafa",
+    question: "Kje shranjujemo elektroniko, ki je ne uporabljamo zmeraj? Pojdi tja in notri boš našel listek. V besedilno polje napiši, kar piše na njem.",
+    answer: "te",
+  },
+  {
+    question: "Pod napravo, ki trenutno edina meri svetlost v sobi, boš našel še en listek. V besedilno polje napiši, kar piše na njem.",
+    answer: "imamo",
   },
 ];
 
