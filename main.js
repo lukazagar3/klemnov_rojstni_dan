@@ -1,8 +1,8 @@
 // Definiramo vprašanja in pravilne odgovore v objektu
 const questions = [
   {
-    question: "Koliko je 2 + 2?",
-    answer: "4",
+    question: "Kdo ima nekje hrano, ampak si je nikoli ne vzame sam/-a?",
+    answer: "Piki",
   },
   {
     question: "Kaj je glavno mesto Slovenije?",
