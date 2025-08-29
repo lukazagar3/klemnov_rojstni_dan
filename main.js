@@ -36,7 +36,7 @@ function displayQuestion() {
     resultMessageEl.textContent = ""; // Počistimo sporočilo
   } else {
     // Kviz je končan
-    questionEl.textContent = "Kviz je končan! Čestitam.";
+    questionEl.textContent = "Tvoje darilo se skriva...";
     answerInputEl.style.display = "none"; // Skrijemo vnosno polje
     submitBtnEl.style.display = "none"; // Skrijemo gumb
     resultMessageEl.style.display = "none";
