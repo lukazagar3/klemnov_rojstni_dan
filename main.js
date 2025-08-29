@@ -5,7 +5,7 @@ const questions = [
     answer: "Piki",
   },
   {
-    question: "Kje ima Piki to hrano spravljeno? Ko to najdeš, boš v vreči s Pikijevimi vitaminčki našel listek. V besedilno polje napiši, kar piše na njem.",
+    question: "Kje ima Piki spravljeno hrano? Ko to najdeš, boš v vreči s Pikijevimi vitaminčki našel listek. V besedilno polje napiši, kar piše na njem.",
     answer: "radi",
   },
   {
